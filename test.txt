@@ -1,0 +1,9 @@
+git init
+git config --global user.name "Surya"
+git config --global user.email "suryapal82@gmail.com"
+git status
+git add -A
+git commit -m "This is my first commit"
+git remote add origin "https://github.com/suryapal82/TestGitHub.git"
+git push origin master
+
